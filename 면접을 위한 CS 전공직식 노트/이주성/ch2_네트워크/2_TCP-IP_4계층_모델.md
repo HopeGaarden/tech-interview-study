@@ -6,14 +6,14 @@ TCP/IP 모델은 인터넷 프로토콜 스위트의 구현을 위한 모델로,
 
 **OSI 7계층**
 - 데이터 전송 방식
-  ![img_3.png](img_3.png)
+  ![img_3.png](images/img_3.png)
   - 데이터가 상위 계층에서 하위 계층으로 전달될 때, 각 계층은 자신의 PCI를 SDU에 추가하여 PDU를 형성
   - PCI(Protocol Control Information) 프로토콜 제어 정보
     - 헤더 붙이기
   - SDU(Service Data Unit) 서비스 데이터 단위
   - PDU(Protocol Data Unit) 프로토콜 데이터 단위
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
 | OSI Layer | PDU | 역할 |
 | --- |---|---|
@@ -27,7 +27,7 @@ TCP/IP 모델은 인터넷 프로토콜 스위트의 구현을 위한 모델로,
 
 **TCP/IP 4계층 모델**
 
-![img_8.png](img_8.png)
+![img_8.png](images/img_8.png)
 - TCP/IP 모델은 OSI 참조 모델의 7계층을 4계층으로 단순화한 모델
 
 ### **애플리케이션 계층**
@@ -53,14 +53,14 @@ TCP/IP 모델은 인터넷 프로토콜 스위트의 구현을 위한 모델로,
 
 **TCP 연결 성립 과정 -> 3-way handshake**
 
-![img_13.png](img_13.png)
+![img_13.png](images/img_13.png)
 
 3-way handshake 후 신뢰성이 구축되고 데이터 전송을 시작한다.
 
 
 **TCP 연결 해제 과정 -> 4-way handshake**
 
-![img_14.png](img_14.png)
+![img_14.png](images/img_14.png)
 
 여기서 굳이 왜 TIME_WAIT로 이정 시간 대기 후 CLOSED를 하는 이유
 1. 지연 패킷이 발생했을 경우의 처리를 위해
@@ -96,7 +96,7 @@ TCP/IP 모델은 인터넷 프로토콜 스위트의 구현을 위한 모델로,
   - 양쪽 장치가 동시에 송수신할 수 있는 방식
   - 송신로, 수신로로 나눠서 통신
   - 현대의 고속 이더넷의 통신 방식
-  ![img_15.png](img_15.png)
+  ![img_15.png](images/img_15.png)
 
 **CSMA/CD**
 - Casrrier Sense Multiple Access with Collision Detection
@@ -143,14 +143,14 @@ TCP/IP 모델은 인터넷 프로토콜 스위트의 구현을 위한 모델로,
 - 장거리 무선 통신 제공
 - 다른 장소로 이동해도 중단 없이 네트워크 연결 
 
-![img_16.png](img_16.png)
+![img_16.png](images/img_16.png)
 
 ---
 
 **이더넷 프레임**
 데이터 링크 계층은 이더넷 프레임을 통해 전달받은 데이터의 에러를 검출하고 캡슐화한다.
 
-![img_17.png](img_17.png)
+![img_17.png](images/img_17.png)
 
 > MAC 주소: 장치에는 네트워크에 연결하기 위한 장치(LAN 카드)가 있는데 이를 구별하기 위한 식별 번호 6byte
 
@@ -161,7 +161,7 @@ TCP/IP 모델은 인터넷 프로토콜 스위트의 구현을 위한 모델로,
 
 ### 계층 간 데이터 송수신 과정
 
-![img_18.png](img_18.png)
+![img_18.png](images/img_18.png)
 
 **캡슐화 과정**
 상위 계층의 헤더와 데이터를 하위 계층의 데이터 부분에 포함시키고 해당 계층의 헤더를 삽입하는 과정
@@ -172,7 +172,7 @@ TCP/IP 모델은 인터넷 프로토콜 스위트의 구현을 위한 모델로,
 ### PDU
 계층 간 데이터 전송 시 한 덩어리의 단위를 PDU(Protocol Data Unit)이라고 한다. PDU에는 제어 관련 정보들이 포함된 헤더와 데이터를 의미하는 페이로드로 구성되어 있으며 계층마다 부르는 명칭이 다르다.
 
-![img_19.png](img_19.png)
+![img_19.png](images/img_19.png)
 
 - 데이터가 상위 계층에서 하위 계층으로 전달될 때, 각 계층은 자신의 PCI를 SDU에 추가하여 PDU를 형성
   - PCI(Protocol Control Information): 프로토콜 제어 정보 
