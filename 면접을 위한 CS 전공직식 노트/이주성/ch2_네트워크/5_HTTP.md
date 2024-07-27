@@ -86,7 +86,7 @@ HTTPS는 애플리케이션 계층과 전송 계층 사이에 신뢰 계층인 S
 - HTTP/2는 HTTP 위에서 동작
 - 통신을 암호화
 
-**SSL(Secure Socket Layer)/TLS(Transport Layer Security Protocol**
+**SSL(Secure Socket Layer)/TLS(Transport Layer Security Protocol)**
 - 전송 계층에서 보안을 제공하는 프로토콜
 - 제 3자가 메세지를 도청하거나 변하지 못하도록 방지
 - 공격자가 서버인 척하며 사용자 정보를 가로채는 인터셉터 공격 방지
