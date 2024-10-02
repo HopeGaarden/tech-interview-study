@@ -1,0 +1,1031 @@
+[
+  {
+    "name": "Water",
+    "symbol": "H2O",
+    "compounds": [
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 2
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 1
+      }
+    ],
+    "state": "liq",
+    "meltingPoint": 0.0,
+    "boilingPoint": 100.0
+  },
+  {
+    "name": "Carbon Dioxide",
+    "symbol": "CO2",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 2
+      }
+    ],
+    "state": "gas",
+    "meltingPoint": -56.6,
+    "boilingPoint": -78.5
+  },
+  {
+    "name": "Glucose",
+    "symbol": "C6H12O6",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 6
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 6
+      },
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 12
+      }
+    ],
+    "state": "solid",
+    "meltingPoint": 146.0,
+    "boilingPoint": 460.0
+  },
+  {
+    "name": "Methane",
+    "symbol": "CH4",
+    "compounds": [
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 4
+      },
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 1
+      }
+    ],
+    "state": "gas",
+    "meltingPoint": -182.5,
+    "boilingPoint": -161.5
+  },
+  {
+    "name": "Ethanol",
+    "symbol": "C2H5OH",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 2
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 6
+      }
+    ],
+    "state": "liq",
+    "meltingPoint": -114.1,
+    "boilingPoint": 78.37
+  },
+  {
+    "name": "Sulfuric Acid",
+    "symbol": "H2SO4",
+    "compounds": [
+      {
+        "Element": {
+          "number": 16,
+          "name": "Sulfur",
+          "symbol": "S",
+          "weight": 32.065,
+          "period": 3,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 115.36000000000001,
+          "boilingPoint": 444.65
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 2
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 4
+      }
+    ],
+    "state": "liq",
+    "meltingPoint": 10.36,
+    "boilingPoint": 337.0
+  },
+  {
+    "name": "Ammonia",
+    "symbol": "NH3",
+    "compounds": [
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 3
+      },
+      {
+        "Element": {
+          "number": 7,
+          "name": "Nitrogen",
+          "symbol": "N",
+          "weight": 14.007,
+          "period": 2,
+          "group": 15,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -209.85999999999999,
+          "boilingPoint": -195.78999999999996
+        },
+        "count": 1
+      }
+    ],
+    "state": "gas",
+    "meltingPoint": -77.73,
+    "boilingPoint": -33.34
+  },
+  {
+    "name": "Acetic Acid",
+    "symbol": "CH3COOH",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 2
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 2
+      },
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 4
+      }
+    ],
+    "state": "liq",
+    "meltingPoint": 16.7,
+    "boilingPoint": 118.1
+  },
+  {
+    "name": "Hydrochloric Acid",
+    "symbol": "HCl",
+    "compounds": [
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 17,
+          "name": "Chlorine",
+          "symbol": "Cl",
+          "weight": 35.453,
+          "period": 3,
+          "group": 17,
+          "type": "Halogen",
+          "state": "gas",
+          "meltingPoint": -100.83999999999997,
+          "boilingPoint": -34.039999999999964
+        },
+        "count": 1
+      }
+    ],
+    "state": "gas",
+    "meltingPoint": -114.22,
+    "boilingPoint": -85.05
+  },
+  {
+    "name": "Carbon Tetrachloride",
+    "symbol": "CCl4",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 17,
+          "name": "Chlorine",
+          "symbol": "Cl",
+          "weight": 35.453,
+          "period": 3,
+          "group": 17,
+          "type": "Halogen",
+          "state": "gas",
+          "meltingPoint": -100.83999999999997,
+          "boilingPoint": -34.039999999999964
+        },
+        "count": 4
+      }
+    ],
+    "state": "liq",
+    "meltingPoint": -22.92,
+    "boilingPoint": 76.73
+  },
+  {
+    "name": "Ammonium Nitrate",
+    "symbol": "NH4NO3",
+    "compounds": [
+      {
+        "Element": {
+          "number": 7,
+          "name": "Nitrogen",
+          "symbol": "N",
+          "weight": 14.007,
+          "period": 2,
+          "group": 15,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -209.85999999999999,
+          "boilingPoint": -195.78999999999996
+        },
+        "count": 2
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 3
+      },
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 4
+      }
+    ],
+    "state": "solid",
+    "meltingPoint": 169.6
+  },
+  {
+    "name": "Sodium Chloride",
+    "symbol": "NaCl",
+    "compounds": [
+      {
+        "Element": {
+          "number": 11,
+          "name": "Sodium",
+          "symbol": "Na",
+          "weight": 22.99,
+          "period": 3,
+          "group": 1,
+          "type": "Alkali Metal",
+          "state": "liq",
+          "meltingPoint": 98.0,
+          "boilingPoint": 882.85
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 17,
+          "name": "Chlorine",
+          "symbol": "Cl",
+          "weight": 35.453,
+          "period": 3,
+          "group": 17,
+          "type": "Halogen",
+          "state": "gas",
+          "meltingPoint": -100.83999999999997,
+          "boilingPoint": -34.039999999999964
+        },
+        "count": 1
+      }
+    ],
+    "state": "solid",
+    "meltingPoint": 801.0,
+    "boilingPoint": 1465.0
+  },
+  {
+    "name": "Hydrogen Peroxide",
+    "symbol": "H2O2",
+    "compounds": [
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 2
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 2
+      }
+    ],
+    "state": "liq",
+    "meltingPoint": -0.43,
+    "boilingPoint": 150.2
+  },
+  {
+    "name": "Carbon Monoxide",
+    "symbol": "CO",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 1
+      }
+    ],
+    "state": "gas",
+    "meltingPoint": -205.0,
+    "boilingPoint": -191.5
+  },
+  {
+    "name": "Propane",
+    "symbol": "C3H8",
+    "compounds": [
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 8
+      },
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 3
+      }
+    ],
+    "state": "gas",
+    "meltingPoint": -187.7,
+    "boilingPoint": -42.1
+  },
+  {
+    "name": "Ethylene",
+    "symbol": "C2H4",
+    "compounds": [
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 4
+      },
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 2
+      }
+    ],
+    "state": "gas",
+    "meltingPoint": -169.2,
+    "boilingPoint": -103.7
+  },
+  {
+    "name": "Sodium Hydroxide",
+    "symbol": "NaOH",
+    "compounds": [
+      {
+        "Element": {
+          "number": 11,
+          "name": "Sodium",
+          "symbol": "Na",
+          "weight": 22.99,
+          "period": 3,
+          "group": 1,
+          "type": "Alkali Metal",
+          "state": "liq",
+          "meltingPoint": 98.0,
+          "boilingPoint": 882.85
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 1
+      }
+    ],
+    "state": "gas",
+    "meltingPoint": 318.0,
+    "boilingPoint": 1390.0
+  },
+  {
+    "name": "Carbon Disulfide",
+    "symbol": "CS2",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 16,
+          "name": "Sulfur",
+          "symbol": "S",
+          "weight": 32.065,
+          "period": 3,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 115.36000000000001,
+          "boilingPoint": 444.65
+        },
+        "count": 2
+      }
+    ],
+    "state": "liq",
+    "meltingPoint": -111.6,
+    "boilingPoint": 46.3
+  },
+  {
+    "name": "Sodium Carbonate",
+    "symbol": "Na2CO3",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 11,
+          "name": "Sodium",
+          "symbol": "Na",
+          "weight": 22.99,
+          "period": 3,
+          "group": 1,
+          "type": "Alkali Metal",
+          "state": "liq",
+          "meltingPoint": 98.0,
+          "boilingPoint": 882.85
+        },
+        "count": 2
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 3
+      }
+    ],
+    "state": "solid",
+    "meltingPoint": 851.0
+  },
+  {
+    "name": "Methanol",
+    "symbol": "CH3OH",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 4
+      }
+    ],
+    "state": "liq",
+    "meltingPoint": -97.6,
+    "boilingPoint": 64.7
+  },
+  {
+    "name": "Sulfur Dioxide",
+    "symbol": "SO2",
+    "compounds": [
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 2
+      },
+      {
+        "Element": {
+          "number": 16,
+          "name": "Sulfur",
+          "symbol": "S",
+          "weight": 32.065,
+          "period": 3,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 115.36000000000001,
+          "boilingPoint": 444.65
+        },
+        "count": 1
+      }
+    ],
+    "state": "gas",
+    "meltingPoint": -72.7,
+    "boilingPoint": -10.0
+  },
+  {
+    "name": "Calcium Carbonate",
+    "symbol": "CaCO3",
+    "compounds": [
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 1
+      },
+      {
+        "Element": {
+          "number": 8,
+          "name": "Oxygen",
+          "symbol": "O",
+          "weight": 15.999,
+          "period": 2,
+          "group": 16,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -222.64999999999998,
+          "boilingPoint": -182.95
+        },
+        "count": 3
+      },
+      {
+        "Element": {
+          "number": 20,
+          "name": "Calcium",
+          "symbol": "Ca",
+          "weight": 40.078,
+          "period": 4,
+          "group": 2,
+          "type": "Alkaline Earth Metal",
+          "state": "solid",
+          "meltingPoint": 839.0000000000001,
+          "boilingPoint": 1483.85
+        },
+        "count": 1
+      }
+    ],
+    "state": "solid",
+    "meltingPoint": 825.0
+  },
+  {
+    "name": "Benzene",
+    "symbol": "C6H6",
+    "compounds": [
+      {
+        "Element": {
+          "number": 1,
+          "name": "Hydrogen",
+          "symbol": "H",
+          "weight": 1.007,
+          "period": 1,
+          "group": 1,
+          "type": "Nonmetal",
+          "state": "gas",
+          "meltingPoint": -258.97499999999997,
+          "boilingPoint": -252.86999999999998
+        },
+        "count": 6
+      },
+      {
+        "Element": {
+          "number": 6,
+          "name": "Carbon",
+          "symbol": "C",
+          "weight": 12.011,
+          "period": 2,
+          "group": 14,
+          "type": "Nonmetal",
+          "state": "solid",
+          "meltingPoint": 3675.0,
+          "boilingPoint": 4026.85
+        },
+        "count": 6
+      }
+    ],
+    "state": "liq",
+    "meltingPoint": 5.5,
+    "boilingPoint": 80.1
+  }
+]
